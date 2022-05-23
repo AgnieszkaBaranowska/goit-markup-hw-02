@@ -1,0 +1,29 @@
+
+
+.first-letters {
+    color: #2196F3;
+}
+.logo {
+    text-decoration: none;
+    color: black;
+    font-family: 'releway';
+    width: 145px;
+    height: 31px;
+}
+
+.header-menu {
+    text-decoration: none;
+    color: #212121;
+}
+.header-menu:hover {
+    color:#2196F3;
+    text-decoration: none;
+}
+.e-mail{
+    color: #757575;
+    text-decoration: none;
+}
+.phone-number{
+    color: #757575;
+    text-decoration: none;
+}
